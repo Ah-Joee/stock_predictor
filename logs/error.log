@@ -1,0 +1,8 @@
+2024-07-16 13:26:41,324 - ERROR - Error processing AAPL: 'str' object has no attribute 'get'
+2024-07-16 13:27:05,772 - ERROR - Error processing AAPL: 'str' object has no attribute 'get'
+2024-07-16 13:27:17,958 - ERROR - Error processing AAPL: 'str' object has no attribute 'get'
+2024-07-16 13:33:25,941 - ERROR - Error processing AAPL: 'regularMarketPrice'
+2024-07-16 13:33:56,037 - ERROR - Error processing AAPL: 'regularMarketPrice'
+2024-07-16 13:34:05,432 - ERROR - Error processing AAPL: 'regularMarketPrice'
+2024-07-16 13:35:13,972 - ERROR - Error processing AAPL: 'regularMarketPrice'
+2024-07-16 13:36:34,545 - ERROR - Error processing AAPL: 'regularMarketPrice'

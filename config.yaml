@@ -1,0 +1,8 @@
+# Configuration settings
+data_path: 'data/'
+ticker_file: 'ticker_names.csv'
+daily_data_file: 'daily_data.csv'
+prediction_file: 'prediction.csv'
+log_file: 'logs/error.log'
+training_period: 252  # Approximately 1 year of trading days
+test_period: 21  # Most recent month (21 trading days)
